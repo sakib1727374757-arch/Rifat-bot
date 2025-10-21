@@ -118,6 +118,22 @@ else {
 const author = ("Created by SaGor with ♡");
 const srcUrl = ("fb: https://fb.com/JAHIDUL.ISLAM.404");
 const fakeRelease = ("ALL VERSIONS NOT RELEASED HERE ARE FAKE");
+
+const chalk = require('chalk');
+
+const logo = [
+  '▒█▀▀▀█ ▀▀█▀▀ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀',
+  '░▀▀▀▄▄ ░▒█░░ ▒█▄▄█ ▒█▄▄▀ ░▒█░░',
+  '▒█▄▄▄█ ░▒█░░ ▒█░▒█ ▒█░▒█ ░▒█░░'
+];
+
+const chalkColors = [chalk.red, chalk.yellow, chalk.green, chalk.cyan, chalk.magenta];
+
+logo.forEach((line, index) => {
+  const color = chalkColors[index % chalkColors.length];
+  console.log(color(line));
+});
+
 for (const t of subTitleArray) {
 	const textColor2 = gradient("#9F98E8", "#AFF6CF")(t);
 	centerText(textColor2, t.length);
@@ -1120,6 +1136,21 @@ async function startBot(loginWithEmail) {
 				if (restartListenMqtt.logNoti == true) {
 					log.info("LISTEN_MQTT", getText('login', 'restartListenMessage', convertTime(restartListenMqtt.timeRestart, true)));
 					log.info("BOT_STARTED", getText('login', 'startBotSuccess'));
+					
+					const chalk = require('chalk');
+
+const logo = [
+'░█▀▀█ ─█▀▀█ ░█─▄▀ ▀█▀ ░█▀▀█', 
+'░█▄▄▀ ░█▄▄█ ░█▀▄─ ░█─ ░█▀▀▄', 
+'░█─░█ ░█─░█ ░█─░█ ▄█▄ ░█▄▄█'
+];
+
+const colors = [chalk.red, chalk.yellow, chalk.green, chalk.cyan, chalk.magenta];
+
+logo.forEach((line, index) => {
+  const color = colors[index % colors.length];
+  console.log(color(line));
+});
 
 					logColor("#f5ab00", character);
 				}
