@@ -40,8 +40,8 @@ module.exports = async function (api, threadModel, userModel, dashBoardModel, gl
 
 	for (const folderModules of folders) {
 		const makeColor = folderModules == "cmds" ?
-			createLine("LOAD COMMANDS") :
-			createLine("LOAD COMMANDS EVENT");
+			createLine("ISLAMIC-CHAT-BOT 🐰🩻") :
+			createLine("ISLAMIC-CHAT-BOT 🐰🩻");
 		console.log(colors.hex("#f5ab00")(makeColor));
 
 		if (folderModules == "cmds") {
@@ -97,12 +97,12 @@ module.exports = async function (api, threadModel, userModel, dashBoardModel, gl
 									await exec(`npm install ${packageName} --${pathCommand.endsWith('.dev.js') ? 'no-save' : 'save'}`);
 									clearInterval(wating);
 									process.stderr.write('\r\x1b[K');
-									console.log(`${colors.green('✔')} installed package ${packageName} successfully`);
+									console.log(`${colors.green('✔')} ISLAMIC-CHAT-BOT 🐰🩻 ${packageName} successfully`);
 								}
 								catch (err) {
 									clearInterval(wating);
 									process.stderr.write('\r\x1b[K');
-									console.log(`${colors.red('✖')} installed package ${packageName} failed`);
+									console.log(`${colors.red('✖')} ISLAMIC-CHAT-BOT 🐰🩻 ${packageName} failed`);
 									throw new Error(`Can't install package ${packageName}`);
 								}
 							}
