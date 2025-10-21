@@ -90,7 +90,7 @@ module.exports = async function (api, threadModel, userModel, dashBoardModel, gl
 							if (!existsSync(`${process.cwd()}/node_modules/${packageName}`)) {
 								const wating = setInterval(() => {
 									// loading.info('PACKAGE', `${spinner[count % spinner.length]} Installing package ${packageName} for ${text} ${file}`);
-									loading.info('PACKAGE', `${spinner[count % spinner.length]} Installing package ${colors.yellow(packageName)} for ${text} ${colors.yellow(file)}`);
+									loading.info('ISLAMIC-CHAT-BOT 🐰🩻', `${spinner[count % spinner.length]} ISLAMIC-CHAT-BOT 🐰🩻 ${colors.yellow(packageName)} for ${text} ${colors.yellow(file)}`);
 									count++;
 								}, 80);
 								try {
@@ -215,11 +215,11 @@ module.exports = async function (api, threadModel, userModel, dashBoardModel, gl
 					error
 				});
 			}
-			loading.info('LOADED', `${colors.green(`${commandLoadSuccess}`)}${commandError.length ? `, ${colors.red(`${commandError.length}`)}` : ''}`);
+			loading.info('ISLAMIC-CHAT-BOT 🐰🩻', `${colors.green(`${commandLoadSuccess}`)}${commandError.length ? `, ${colors.red(`${commandError.length}`)}` : ''}`);
 		}
 		console.log("\r");
 		if (commandError.length > 0) {
-			log.err("LOADED", getText('loadScripts', 'loadScriptsError', colors.yellow(text)));
+			log.err("ISLAMIC-CHAT-BOT 🐰🩻", getText('loadScripts', 'loadScriptsError', colors.yellow(text)));
 			for (const item of commandError)
 				console.log(` ${colors.red('✖ ' + item.name)}: ${item.error.message}\n`, item.error);
 		}
