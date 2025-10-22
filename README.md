@@ -1,34 +1,23 @@
+<h1 align="ce="center">🤍──៵✧𝐈𝐒𝐋𝐀𝐌𝐈𝐂🤖 𝐁𝐎𝐓 🩻𝐁𝐎𝐗🤖🪽 - Powered BOY〲RAKIB卝 〲 হাসানツ࿐ 💫</h1>
+
 <p align="center">
-  <img src="https://i.imgur.com/v5Cianc.jpeg" width="180" alt="Goat Bot Logo"/>
+  <img src="https://i.imgur.com/GGQyga0.jpeg" width="180" alt="Goat Bot Logo"/>
 </p>
-# 🌐 My Personal Portfolio
 
-> 💫 এটি আমার ব্যক্তিগত প্রোজেক্ট রিপোজিটরি — এখানে আমি আমার কাজ, প্রোজেক্ট, এবং সোশ্যাল মিডিয়া সংযোগ শেয়ার করি।
+<p align="center">
+  <b>A stylish, powerful, multipurpose Messenger Bot built with <code>unofficial-fca</code>.</b><br>
+  💬 AI Chat | 🎶 Music | 🎬 Downloader | 🎮 Fun | 🧠 Smart | 🛡️ Secure
+</p>
 
+---🩻
 ---
 
-## 👋 পরিচিতি
-হ্যালো! আমি *[ 〲RAKIB卝 〲 হাসানツ࿐]**, একজন আগ্রহী **ওয়েব ডেভেলপার / ডিজাইনার / প্রোগ্রামার**  
-আমি কোড করতে, নতুন জিনিস শিখতে, এবং মানুষের জন্য দরকারী জিনিস তৈরি করতে ভালোবাসি 💻✨  
+## 👑 Developer
 
----
-
-## 🚀 আমার প্রোজেক্টসমূহ
-| প্রোজেক্ট | বর্ণনা | লিংক |
-|------------|----------|--------|
-| 🌟 Portfolio Website | আমার ব্যক্তিগত ওয়েবসাইট যেখানে প্রোজেক্ট ও প্রোফাইল আছে | [দেখুন](https://yourportfolio.com) |
-| 🧠 AI Chatbot | OpenAI API ব্যবহার করে তৈরি চ্যাটবট | [GitHub Repo](https://github.com/yourusername/ai-chatbot) |
-| 💬 Messenger Bot | Facebook Messenger অটোমেশন প্রোজেক্ট | [GitHub Repo](https://github.com/yourusername/messenger-bot) |
-
----
-
-## 📱 যোগাযোগ ও সোশ্যাল লিঙ্কসমূহ
-
-### 🌍 আমার সোশ্যাল মিডিয়া
-[![Facebook]()](https://www.facebook.com/profile.php?id=61580390280524)
-[![Messenger](https://img.shields.io/badge/Messenger-Chat-blue?logo=messenger&logoColor=white)](https://m.me/your.username)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/your.username)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+> ADMIN:  〲RAKIB卝 〲 হাসানツ࿐
+🌐 [Facebook Profile](https://www.facebook.com/profile.php?id=61580390280524)  
+💬 [Join Bot Group](https://m.me/j/AbZtcRXuQ57B3Qnz/)  
+🧠 [GitHub Profile]()
 
 ---
 
@@ -36,12 +25,11 @@
 📢 আমাদের Messenger গ্রুপে যোগ দিন — এখানে আমরা কোডিং, প্রোজেক্ট, বট এর জন্য সব কিছু-শেয়ার করি!  
 👉 [**Messenger Group Link**](https://m.me/j/AbZtcRXuQ57B3Qnz/)
 
----
 
-## ⚙️ ব্যবহারবিধি
-আপনি চাইলে এই রিপো ক্লোন করে নিজের মতো সাজাতে পারেন:
+```
 
-`Wark file
+# 20x workflows
+```
 name: Node.js CI
 
 on:
@@ -69,3 +57,31 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm start
+```
+
+## 💖 Support Me
+
+<p align="center">
+  <a href="https://github.com/SAGOR-KINGx/JUST-WOW/stargazers">
+    <img src="https://img.shields.io/github/stars/your-username/GoatBot-V2?style=social" alt="GitHub Stars"/>
+  </a>
+  <a href="https://replit.com/~">
+    <img src="https://img.shields.io/badge/Host%20on-Replit-blue?style=flat-square&logo=replit" alt="Replit Badge"/>
+  </a>
+  <a href="https://render.com">
+    <img src="https://img.shields.io/badge/Deploy%20on-Render-purple?style=flat-square&logo=render" alt="Render Badge"/>
+  </a>
+</p>
+
+---
+
+## 📜 License
+
+This project is open-source under the MIT License.  
+Use, modify, and share — just keep the credits to 〲RAKIB卝 〲 হাসানツ࿐🤍
+
+---
+
+<p align="center">
+  <b>© 2025 | Made with 💜 BY 〲RAKIB卝 〲 হাসানツ࿐</b>
+</p>
