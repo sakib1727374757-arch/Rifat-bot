@@ -16,14 +16,14 @@
 
 > ADMIN:  〲RAKIB卝 〲 হাসানツ࿐
 🌐 [Facebook Profile](https://www.facebook.com/profile.php?id=61580390280524)  
-💬 [Join Bot Group](https://m.me/j/AbZtcRXuQ57B3Qnz/)  
+💬 [Join Bot Group](https://m.me/j/AbbVSfeyPnr-13Js/)  
 🧠 [GitHub Profile]()
 
 ---
 
 ### 💬 মেসেঞ্জার গ্রুপ
 📢 আমাদের Messenger গ্রুপে যোগ দিন — এখানে আমরা কোডিং, প্রোজেক্ট, বট এর জন্য সব কিছু-শেয়ার করি!  
-👉 [**Messenger Group Link**](https://m.me/j/AbZtcRXuQ57B3Qnz/)
+👉 [**Messenger Group Link**](https://m.me/j/AbbVSfeyPnr-13Js/)
 
 # 20x WORKFLOWS 
 
