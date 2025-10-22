@@ -1,4 +1,4 @@
-<h1 align="ce="center">🤍──៵✧ISLAMIC🤖CHAT🩻BOT🤖🪽 - Powered BOY〲RAKIB卝 〲 হাসানツ࿐ 💫</h1>
+<h1 align="ce="center">🤍──៵✧𝐈𝐒𝐋𝐀𝐌𝐈𝐂🤖 𝐁𝐎𝐓 🩻𝐁𝐎𝐗🤖🪽 - Powered BOY〲RAKIB卝 〲 হাসানツ࿐ 💫</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/GGQyga0.jpeg" width="180" alt="Goat Bot Logo"/>
