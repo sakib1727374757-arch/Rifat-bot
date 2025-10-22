@@ -6,7 +6,7 @@ module.exports = {
     name: "info",
     aliases: ["inf", "in4"],
     version: "3.7",
-    author: "SaGor",
+    author: "RAKIB",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -32,15 +32,15 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "SaGor";
-    const ownerName = "JAHIDUL ISLAM SAGOR";
-    const moderatedBy = "JAHIDUL ISLAM SAGOR";
+    const botName = "RAKIB";
+    const ownerName = "〲RAKIB卝 〲 হাসানツ࿐";
+    const moderatedBy = "〲RAKIB卝 〲 হাসানツ࿐";
     const religion = "ISLAM";
     const botStatus = "SINGLE";
-    const address = "PANCHAGARH , DEBIGONJ";
-    const userClass = "INTER 1ST";
-    const facebook = "https://www.facebook.com/JAHIDUL.ISLAM.404";
-    const tiktok = "https://www.tiktok.com/@11sagor_islam";
+    const address = "JAMALPUR ";
+    const userClass = "কলেজ+কওমি মাদ্রাসা";
+    const facebook = "https://www.facebook.com/profile.php?id=61580390280524";
+    const tiktok = "দিয়া যাবে না. :)🐰";
 
     const now = moment().tz('Asia/Dhaka');
     const localTime = now.format('hh:mm:ss A');
@@ -60,19 +60,19 @@ module.exports = {
     const body = `
 ╭─ <𝐎𝐖𝐍𝐄𝐑  𝐈𝐍𝐅𝐎> ─╮
 ├──────────────⍟
-│ 👑 𝕆𝕎ℕ𝔼ℝ : ${ownerName}
-│ ⚙️ 𝕄𝕆𝔻𝔼ℝ𝔸𝕋𝔼𝔻 𝔹𝕐 : ${moderatedBy}
-│ 🏫 ℂ𝕃𝔸𝕊𝕊 : ${userClass}
-│ 🏠 𝔸𝔻𝔻ℝ𝔼𝕊𝕊 : ${address}
-│ 🌍 ℝ𝔼𝕃𝕀𝔾𝕀𝕆ℕ : ${religion}
-│ 🧬 𝕊𝕋𝔸𝕋𝕌𝕊 : ${botStatus}
-│ 📘 𝔽𝔸ℂ𝔼𝔹𝕆𝕆𝕂 : ${facebook}
-│ 📸 𝕋𝕀𝕂𝕋𝕆𝕂 : ${tiktok}
+│ 👑 𝕆𝕎ℕ𝔼ℝ : ${〲RAKIB卝 〲 হাসানツ࿐}
+│ ⚙️ 𝕄𝕆𝔻𝔼ℝ𝔸𝕋𝔼𝔻 𝔹𝕐 : ${〲RAKIB卝 〲 হাসানツ࿐}
+│ 🏫 ℂ𝕃𝔸𝕊𝕊 : ${কলেজ+মাদ্রাসা 🩻🐰}
+│ 🏠 𝔸𝔻𝔻ℝ𝔼𝕊𝕊 : ${জামালপুর }
+│ 🌍 ℝ𝔼𝕃𝕀𝔾𝕀𝕆ℕ : ${🐰🩻}
+│ 🧬 𝕊𝕋𝔸𝕋𝕌𝕊 : ${SHIJUKA}
+│ 📘 𝔽𝔸ℂ𝔼𝔹𝕆𝕆𝕂 : ${https://www.facebook.com/profile.php?id=61580390280524}
+│ 📸 𝕋𝕀𝕂𝕋𝕆𝕂 : ${দিয়া যাবে-না 🩻🐰}
 ├───────────⍟
 │
 │𖣘 <𝐁𝐎𝐓  𝐈𝐍𝐅𝐎> 𖣘
 ├───────────⍟
-│ 🤖 𝐁𝐨𝐭 𝐍𝐚𝐦𝐞: ${botName}
+│ 🤖 𝐁𝐨𝐭 𝐍𝐚𝐦𝐞: ${sʜɪᴊᴜᴋᴀ:)🐰🩻}
 │ 🕐 𝐓𝐢𝐦𝐞: ${localTime}
 │ 🌀 𝐔𝐩𝐭𝐢𝐦𝐞: ${uptimeString}
 │ ⚡ 𝐏𝐢𝐧𝐠: ${ping}𝐦𝐬
