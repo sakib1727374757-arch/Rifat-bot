@@ -1,4 +1,4 @@
-<h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY〲RAKIB卝 〲 হাসানツ࿐ 💫</h1>
+<h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY ʀᴀᴋɪʙ-ʜᴀssᴀɴ💫</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/GGQyga0.jpeg" width="180" alt="Goat Bot Logo"/>
