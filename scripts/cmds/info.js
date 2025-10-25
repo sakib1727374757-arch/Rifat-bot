@@ -5,15 +5,15 @@ module.exports = {
   config: {
     name: "info",
     aliases: ["inf", "in4"],
-    version: "3.7",
-    author: "RAKIB",
+    version: "2.0",
+    author: " Eren",
     countDown: 5,
     role: 0,
     shortDescription: {
-      en: "Shows bot and owner info with photo."
+      en: "Sends information about the bot and admin along with a video."
     },
     longDescription: {
-      en: "Displays detailed information about the bot and owner, including uptime, ping, social links, and local time, with a profile photo."
+      en: "Sends information about the bot and admin along with a video."
     },
     category: "Information",
     guide: {
@@ -32,18 +32,14 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "RAKIB";
-    const ownerName = "〲RAKIB卝 〲 হাসানツ࿐";
-    const moderatedBy = "〲RAKIB卝 〲 হাসানツ࿐";
-    const religion = "ISLAM";
-    const botStatus = "SINGLE";
-    const address = "JAMALPUR ";
-    const userClass = "কলেজ+কওমি মাদ্রাসা";
-    const facebook = "https://www.facebook.com/profile.php?id=61580390280524";
-    const tiktok = "দিয়া যাবে না. :)🐰";
+    const botName = "🕸️ 𝐒𝐩𝐢𝐝𝐞𝐘🕷️";
+    const authorName = "Ma-Hi";
+    const authorFB = "fb.com/mahi68x";
+    const authorInsta = "raadx102";
+    const status = "𝗦𝗶𝗻𝗴𝗹𝗲";
 
     const now = moment().tz('Asia/Dhaka');
-    const localTime = now.format('hh:mm:ss A');
+    const time = now.format('h:mm:ss A');
 
     const uptime = process.uptime();
     const seconds = Math.floor(uptime % 60);
@@ -51,39 +47,31 @@ module.exports = {
     const hours = Math.floor((uptime / (60 * 60)) % 24);
     const uptimeString = `${hours}h ${minutes}m ${seconds}s`;
 
-    const start = Date.now();
-    await new Promise(resolve => setTimeout(resolve, 100));
-    const ping = Date.now() - start;
-
-    const photoUrl = "https://i.ibb.co/SwXznvzv/img-1760502291235.jpg";
+    const videoUrl = "https://files.catbox.moe/t73j7v.mp4"; /*dont use imgur url for this cmd*/
 
     const body = `
-╭─ <𝐎𝐖𝐍𝐄𝐑  𝐈𝐍𝐅𝐎> ─╮
-├──────────────⍟
-│ 👑 𝕆𝕎ℕ𝔼ℝ : ${〲RAKIB卝 〲 হাসানツ࿐}
-│ ⚙️ 𝕄𝕆𝔻𝔼ℝ𝔸𝕋𝔼𝔻 𝔹𝕐 : ${〲RAKIB卝 〲 হাসানツ࿐}
-│ 🏫 ℂ𝕃𝔸𝕊𝕊 : ${কলেজ+মাদ্রাসা 🩻🐰}
-│ 🏠 𝔸𝔻𝔻ℝ𝔼𝕊𝕊 : ${জামালপুর }
-│ 🌍 ℝ𝔼𝕃𝕀𝔾𝕀𝕆ℕ : ${🐰🩻}
-│ 🧬 𝕊𝕋𝔸𝕋𝕌𝕊 : ${SHIJUKA}
-│ 📘 𝔽𝔸ℂ𝔼𝔹𝕆𝕆𝕂 : ${https://www.facebook.com/profile.php?id=61580390280524}
-│ 📸 𝕋𝕀𝕂𝕋𝕆𝕂 : ${দিয়া যাবে-না 🩻🐰}
-├───────────⍟
-│
-│𖣘 <𝐁𝐎𝐓  𝐈𝐍𝐅𝐎> 𖣘
-├───────────⍟
-│ 🤖 𝐁𝐨𝐭 𝐍𝐚𝐦𝐞: ${sʜɪᴊᴜᴋᴀ:)🐰🩻}
-│ 🕐 𝐓𝐢𝐦𝐞: ${localTime}
-│ 🌀 𝐔𝐩𝐭𝐢𝐦𝐞: ${uptimeString}
-│ ⚡ 𝐏𝐢𝐧𝐠: ${ping}𝐦𝐬
-╰───────────╯
-`;
 
-    try {
-      const response = await axios.get(photoUrl, { responseType: 'stream' });
-      message.reply({ body, attachment: response.data });
-    } catch {
-      message.reply("⚠️ Failed to load photo.");
-    }
+┏━━━━━━━━━━━━━━━━┓
+┃ 🧑 Admin Info
+┃ ╰➤ Name-🩻: ${ʀᴀᴋɪʙ-ʜᴀssᴀɴ}
+┃ ╰➤ Facebook: ${https://www.facebook.com/profile.php?id=61580390280524}
+┃ ╰➤ Instagram: ${authorInsta}
+┃ ╰➤ Status: ${status}
+┃
+┃ 🤖 Bot Details
+┃ ╰➤ Name: ${SHIJUKA}
+┃ ╰➤ Time: ${time}
+┃ ╰➤ Uptime: ${uptimeString}
+┗━━━━━━━━━━━━━━━━┛
+
+I may not be perfect,
+   but I’ll always reply to you.`;
+
+    const response = await axios.get(videoUrl, { responseType: 'stream' });
+
+    message.reply({
+      body,
+      attachment: response.data
+    });
   }
 };
