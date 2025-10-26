@@ -1,4 +1,4 @@
-<h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY ʀᴀᴋɪʙ-ʜᴀssᴀɴ💫</h1>
+<h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY 𝙳𝙹-𝚁𝙰𝙽𝙰-𝙱𝙾𝚈💫</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/GGQyga0.jpeg" width="180" alt="Goat Bot Logo"/>
@@ -14,8 +14,8 @@
 
 ## 👑 Developer
 
-> ADMIN:  〲RAKIB卝 〲 হাসানツ࿐
-🌐 [Facebook Profile](https://www.facebook.com/profile.php?id=61580390280524)  
+> ADMIN:一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐
+🌐 [Facebook Profile](https://www.facebook.com/share/1CsWuXZe6P/)  
 💬 [Join Bot Group](https://m.me/j/AbbVSfeyPnr-13Js/)  
 🧠 [GitHub Profile]()
 
@@ -76,10 +76,10 @@ jobs:
 ## 📜 License
 
 This project is open-source under the MIT License.  
-Use, modify, and share — just keep the credits to 〲RAKIB卝 〲 হাসানツ࿐🤍
+Use, modify, and share — just keep the credits to 一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐🤍
 
 ---
 
 <p align="center">
-  <b>© 2025 | Made with 💜 BY 〲RAKIB卝 〲 হাসানツ࿐</b>
+  <b>© 2025 | Made with 💜 BY 一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐</b>
 </p>
