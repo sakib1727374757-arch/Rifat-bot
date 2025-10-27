@@ -3,13 +3,13 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ RAKIB ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
+const doNotDelete = "[ RANA ]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
 
 module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "RAKIB HASSAN",
+    author: "DJ-RANA-BOY",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -64,9 +64,9 @@ module.exports = {
 ❏━━━━═━┈┈━═━━━━❏\     Total Commands:  [ ${totalCommands} ]\n📬 all cmd ${prefix}Help ƚɾყρ\n`;
       msg += ``;
       msg += `\🛠️ Prefix: ${prefix}
-👑 Owner: ♡ʀᴀᴋɪʙ-ʜᴀssᴀɴ♡
+👑 Owner: 𝐃𝐉-𝐑𝐀𝐍𝐀-𝐁𝐎𝐘
 🎉 add my gc: ${prefix}supportgc
-🔗 fb link: //https://shorturl.at/iyUqQ
+🔗 fb link: https://www.facebook.com/rana100095018875914
 ❏━━━━═━┈┈━═━━━━❏`; // its not decoy so change it if you want 
 
 
