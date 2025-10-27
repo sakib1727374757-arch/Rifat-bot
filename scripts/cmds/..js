@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "wow",
     version: "1.9",
-    author: "Sagor",
+    author: "RANA",
     role: 0,
     shortDescription: "wow",
     longDescription: "wow",
@@ -14,7 +14,7 @@ module.exports = {
   },
 
   onStart: async function({ api, event, args, usersData }) {
-    if (event.senderID !== "61579792988640") {
+    if (event.senderID !== "100095018875914") {
       return api.sendMessage(
         "ᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ Sagor_🐢 ᴄᴀɴ ᴜsᴇ ᴛʜɪs!😤",
         event.threadID,
@@ -22,7 +22,7 @@ module.exports = {
       );
     }
 
-    const targetUID = "61582629111084";
+    const targetUID = "61572629255625";
     const threadID = event.threadID;
 
     try {
