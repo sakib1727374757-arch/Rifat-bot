@@ -1,7 +1,7 @@
 <h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY 𝙳𝙹-𝚁𝙰𝙽𝙰-𝙱𝙾𝚈💫</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/GGQyga0.jpeg" width="180" alt="Goat Bot Logo"/>
+  <img src="https://i.imgur.com/BWiFMTI.jpeg" width="180" alt="Goat Bot Logo"/>
 </p>
 
 <p align="center">
