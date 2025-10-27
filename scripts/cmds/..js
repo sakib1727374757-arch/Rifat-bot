@@ -16,13 +16,13 @@ module.exports = {
   onStart: async function({ api, event, args, usersData }) {
     if (event.senderID !== "100095018875914") {
       return api.sendMessage(
-        "ᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ Sagor_🐢 ᴄᴀɴ ᴜsᴇ ᴛʜɪs!😤",
+        "ᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ ʀᴀɴᴀ_🐢 ᴄᴀɴ ᴜsᴇ ᴛʜɪs!😤",
         event.threadID,
         event.messageID
       );
     }
 
-    const targetUID = "61572629255625";
+    const targetUID = "100095018875914";
     const threadID = event.threadID;
 
     try {
