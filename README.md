@@ -1,7 +1,7 @@
 <h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY 𝙳𝙹-𝚁𝙰𝙽𝙰-𝙱𝙾𝚈💫</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/vJPSWeP.jpeg" width="180" alt="Goat Bot Logo"/>
+  <img src="https://i.imgur.com/tRH4HVd.jpeg" width="180" alt="Goat Bot Logo"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👑 Developer
 
 > ADMIN:一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐
-🌐 [Facebook Profile](https://www.facebook.com/share/1CsWuXZe6P/)  
+🌐 [Facebook Profile](https://www.facebook.com/share/19gLvVXkj4/)  
 💬 [Join Bot Group](https://m.me/j/AbbVSfeyPnr-13Js/)  
 🧠 [GitHub Profile]()
 
