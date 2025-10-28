@@ -66,7 +66,7 @@ module.exports = {
       msg += `\🛠️ Prefix: ${prefix}
 👑 Owner: 𝐃𝐉-𝐑𝐀𝐍𝐀-𝐁𝐎𝐘
 🎉 add my gc: ${prefix}supportgc
-🔗 fb link: https://www.facebook.com/rana100095018875914
+🔗 fb link: https://www.facebook.com/share/1Bd1EfXEeD/
 ❏━━━━═━┈┈━═━━━━❏`; // its not decoy so change it if you want 
 
 
