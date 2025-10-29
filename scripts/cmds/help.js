@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "DJ-RANA-BOY",
+    author: "ʀᴀᴋɪʙ-ʜᴀssᴀɴ",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -64,9 +64,9 @@ module.exports = {
 ❏━━━━═━┈┈━═━━━━❏\     Total Commands:  [ ${totalCommands} ]\n📬 all cmd ${prefix}Help ƚɾყρ\n`;
       msg += ``;
       msg += `\🛠️ Prefix: ${prefix}
-👑 Owner: 𝐃𝐉-𝐑𝐀𝐍𝐀-𝐁𝐎𝐘
-🎉 add my gc: ${prefix}supportgc
-🔗 fb link: https://www.facebook.com/share/1Bd1EfXEeD/
+👑 Owner: ʀᴀᴋɪʙ-ʜᴀssᴀɴ
+🎉 add my gc: ${prefix}supportgc{https://m.me/j/AbbVSfeyPnr-13Js/}
+🔗 fb link: https://shorturl.at/AjvR7
 ❏━━━━═━┈┈━═━━━━❏`; // its not decoy so change it if you want 
 
 
@@ -123,4 +123,4 @@ function roleTextToString(roleText) {
     default:
       return "Unknown role";
   }
-  }
+        }
