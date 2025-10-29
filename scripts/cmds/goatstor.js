@@ -8,7 +8,7 @@ module.exports = {
     name: "goatstor",
     aliases: ["gs", "market"],
     version: "0.0.1",
-    role: 0,
+    role: 2,
     author: "ArYAN",
     shortDescription: {
       en: "📌 Goatstor - Your Command Marketplace"
@@ -16,7 +16,31 @@ module.exports = {
     longDescription: {
       en: "📌 Browse, search, upload, and manage your commands in the GoatStor marketplace with easy sharing cmds."
     },
+    : "𝗠𝗮𝗿𝗸𝗲𝘁",
+: "ArYAN",
+    shortDescription: {
+      en: "📌 Goatstor - Your Command Marketplace"
+    },
+    longDescription: {
+      en: "📌 Browse, search, upload, and manage your commands in the GoatStor marketplace with easy sharing cmds."
+    },
     category: "𝗠𝗮𝗿𝗸𝗲𝘁",
+    cooldowns: 0,
+  },
+
+  onStart: async ({ api, event, args, message }) => {
+    const sendBeautifulMessage = (content) => {
+      const header = "╭──『 🐐𝗚𝗼𝗮𝘁𝗦𝘁𝗼𝗿 』──╮\n";
+      const footer = "\n╰──────────────╯";
+      return message.reply(header + content + footer);
+    };
+
+    try {
+      if (!args[0]) {
+        return sendBeautifulMessage(
+          "\n" +
+          `╭─❯ ${event.body} show <ID>\n├ 📦 Get command code\n╰ Example: show 1\n\n` +
+          `╭─❯ ${event.body} pa: "𝗠𝗮𝗿𝗸𝗲𝘁",
     cooldowns: 0,
   },
 
