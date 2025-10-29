@@ -65,7 +65,7 @@ module.exports = {
       msg += ``;
       msg += `\🛠️ Prefix: ${prefix}
 👑 Owner: ʀᴀᴋɪʙ-ʜᴀssᴀɴ
-🎉 add my gc: ${prefix}supportgc{https://m.me/j/AbbVSfeyPnr-13Js/}
+🎉 add my gc: ${prefix}supportgc
 🔗 fb link: https://shorturl.at/AjvR7
 ❏━━━━═━┈┈━═━━━━❏`; // its not decoy so change it if you want 
 
@@ -123,4 +123,4 @@ function roleTextToString(roleText) {
     default:
       return "Unknown role";
   }
-        }
+                            }
