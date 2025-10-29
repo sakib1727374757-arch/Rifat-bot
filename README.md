@@ -1,7 +1,7 @@
-<h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY 𝙳𝙹-𝚁𝙰𝙽𝙰-𝙱𝙾𝚈💫</h1>
+<h1 align="ce="center">🤍──៵✧ɪsʟᴀᴍɪᴄ-ᴄʜᴀᴛ -ʙᴏᴛ🪽 - Powered BOY 𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐜𝐡𝐚𝐭-𝐛𝐨𝐭912-𝙱𝙾𝚈💫</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/tRH4HVd.jpeg" width="180" alt="Goat Bot Logo"/>
+  <img src="https://i.imgur.com/yoBoykn.jpeg" width="180" alt="Goat Bot Logo"/>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 
 ## 👑 Developer
 
-> ADMIN:一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐
-🌐 [Facebook Profile](https://www.facebook.com/share/19gLvVXkj4/)  
+> ADMIN:一ꨄ ⵂ.〲RAKIB卝 〲 হাসানツ࿐
+🌐 [Facebook Profile](https://facebook.com/61580390280524)  
 💬 [Join Bot Group](https://m.me/j/AbbVSfeyPnr-13Js/)  
 🧠 [GitHub Profile]()
 
@@ -76,10 +76,10 @@ jobs:
 ## 📜 License
 
 This project is open-source under the MIT License.  
-Use, modify, and share — just keep the credits to 一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐🤍
+Use, modify, and share — just keep the credits to 一ꨄ 〲RAKIB卝 〲 হাসানツ࿐
 
 ---
 
 <p align="center">
-  <b>© 2025 | Made with 💜 BY 一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐</b>
+  <b>© 2025 | Made with 💜 BY 一ꨄ ⵂ.〲RAKIB卝 〲 হাসানツ࿐</b>
 </p>
