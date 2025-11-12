@@ -115,5 +115,3 @@
         "hostOnly": false,
         "creation": "2025-11-12T12:37:32.003Z",
         "lastAccessed": "2025-11-12T12:37:32.003Z"
-    }
-]
